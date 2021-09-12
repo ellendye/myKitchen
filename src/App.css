@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -23,6 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.login {
+  background-image: url('pexels-maarten-van-den-heuvel-2284166.jpg');
+  height: 95vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 
 .App-link {
   color: #61dafb;
